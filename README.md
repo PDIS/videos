@@ -42,3 +42,11 @@
 - ℹ️ 전통 전기밥솥인 경우에는 마스크 녹는 것을 방지하기 위하여 거치대와 함께 사용해주세요.
 - ℹ️ 대만 식약서（食藥署）에 따르면, 감염 위험이 높지 않은 장소에 출입하는 경우에는 마스크의 사용 회수를 올리려면, 전기밥솥을 이용해서 물없이 소독하는 법을 이용하셔도 되지만, 3번에서 5번을 거쳤으면 새 마스크를 사용하는 것을 권장합니다.
 - ℹ️ 전기밥솥에 관련하여 賴全裕 부교수의 견해를 알려 드립니다. 마스크 전기밥솥 재활용법을 이용할 시 온도를 110도 안에 유지하여 주세요.
+
+## Schutzmaske Revitalisierung
+
+- 🇹🇼 Übersetzen: [Taiwan in Hamburg](https://www.facebook.com/TaiwaninHH/)
+- ℹ️ TFDA Hinweis: Die Prozedur, trockene Hitze mittels eines Reiskochers zu erzeugen, kann 3 bis 5 mal wiederholt werden.
+- ℹ️ Anwendbar nur bei medizinischen Masken, welche draußen oder an Orten mit einem geringen Risiko benutzt werden und die unversehrt und nicht kontaminiert sind. 
+- ℹ️ Bei traditionellen elektrischen Töpfen muss der innere Topf auf einen Dampfeinsatz gestellt werden, ansonsten schmilzt die Maske.
+- ℹ️ Bei dem elektrischen Topf muss auf die Temperatur geachtet werden - die Dampftemperatur sollte ungefähr 110 Grad C erreichen.
