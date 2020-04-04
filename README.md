@@ -35,3 +35,10 @@
 - ℹ️ Remarque TFDA: Cette méthode utilisant la chaleur sèche d'un cuiseur à riz électrique peut être répétée 3 à 5 fois.
 - ℹ️ Valable uniquement pour les masques médicaux utilisés en extérieur ou dans des endroits à faible risque sans dommage ni contamination.
 - ℹ️ La température dans le pot intérieur doit atteindre environ 110℃ (230℉) pour utiliser cette méthode.
+
+## 마스크 재활용 법을 알려 드리겠습니다
+
+- 💁 번역 및 내레이션 : Dora Chang
+- ℹ️ 전통 전기밥솥인 경우에는 마스크 녹는 것을 방지하기 위하여 거치대와 함께 사용해주세요.
+- ℹ️ 대만 식약서（食藥署）에 따르면, 감염 위험이 높지 않은 장소에 출입하는 경우에는 마스크의 사용 회수를 올리려면, 전기밥솥을 이용해서 물없이 소독하는 법을 이용하셔도 되지만, 3번에서 5번을 거쳤으면 새 마스크를 사용하는 것을 권장합니다.
+- ℹ️ 전기밥솥에 관련하여 賴全裕 부교수의 견해를 알려 드립니다. 마스크 전기밥솥 재활용법을 이용할 시 온도를 110도 안에 유지하여 주세요.
