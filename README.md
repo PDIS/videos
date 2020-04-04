@@ -34,3 +34,4 @@
 - ℹ️ La cuve intérieure doit être élevée sur une grille à vapeur.
 - ℹ️ Remarque TFDA: Cette méthode utilisant la chaleur sèche d'un cuiseur à riz électrique peut être répétée 3 à 5 fois.
 - ℹ️ Valable uniquement pour les masques médicaux utilisés en extérieur ou dans des endroits à faible risque sans dommage ni contamination.
+- ℹ️ La température dans le pot intérieur doit atteindre environ 110℃ (230℉) pour utiliser cette méthode.
