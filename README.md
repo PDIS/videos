@@ -11,6 +11,7 @@
 - ℹ️ The inner pot needs to be elevated on a steam rack.
 - ℹ️ TFDA notice: This procedure to apply dry heat with an electric rice cooker can be repeated 3 to 5 times.
 - ℹ️ Applicable only to medical masks used in outdoors or in low-risk places without damage or contamination.
+- ℹ️ The temperature in the inner pot must reach about 110℃ (230℉)  to use this method.
 
 ## 乾蒸しマスクを作ります
 
