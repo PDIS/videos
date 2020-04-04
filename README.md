@@ -48,5 +48,6 @@
 - 🇹🇼 Übersetzen: [Taiwan in Hamburg](https://www.facebook.com/TaiwaninHH/)
 - ℹ️ TFDA Hinweis: Die Prozedur, trockene Hitze mittels eines Reiskochers zu erzeugen, kann 3 bis 5 mal wiederholt werden.
 - ℹ️ Anwendbar nur bei medizinischen Masken, welche draußen oder an Orten mit einem geringen Risiko benutzt werden und die unversehrt und nicht kontaminiert sind. 
+- ℹ️ Fügen Sie KEIN Wasser hinzu.
 - ℹ️ Bei traditionellen elektrischen Töpfen muss der innere Topf auf einen Dampfeinsatz gestellt werden, ansonsten schmilzt die Maske.
 - ℹ️ Bei dem elektrischen Topf muss auf die Temperatur geachtet werden - die Dampftemperatur sollte ungefähr 110 Grad C erreichen.
