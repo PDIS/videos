@@ -51,3 +51,10 @@
 - ℹ️ Fügen Sie KEIN Wasser hinzu.
 - ℹ️ Bei traditionellen elektrischen Töpfen muss der innere Topf auf einen Dampfeinsatz gestellt werden, ansonsten schmilzt die Maske.
 - ℹ️ Bei dem elektrischen Topf muss auf die Temperatur geachtet werden - die Dampftemperatur sollte ungefähr 110 Grad C erreichen.
+
+## Revitalisasi masker
+
+👩🏻 Terjemahan & sulih suara: Gabriela Gondokusumo
+ℹ️ Untuk rice cooker tradisional, gunakan alas kukus di bawah panci agar masker tidak meleleh.
+ℹ️ Anjuran dari BPOM Taiwan: Jika masker yang dipakai di luar ruangan/tempat dengan resiko rendah tak terkontaminasi dan hendak dipakai lagi, disarankan untuk dihangatkan tanpa air (dry heat) di rice cooker untuk membunuh kuman, bisa diulang 3-5x sebelum diganti.
+ℹ️ Untuk rice cooker induksi, suhu di dalam panci harus mencapai 110℃ agar bisa menggunakan cara ini. 
