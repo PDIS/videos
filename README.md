@@ -1,6 +1,6 @@
 # Social media video files
 
-## 乾蒸口罩 / 熁喙罨 / 熇嘴揞仔/ 打燥炊嘴揞仔
+## 乾蒸口罩
 
 - ℹ️ 傳統電鍋的內鍋，記得要放在內鍋架上架高... 不然口罩會熔掉。
 - ℹ️ 食藥署提醒：如果民眾出入戶外或低風險場所使用的醫用口罩，在無破損或髒汙前提下，要增加使用次數，建議可以用電鍋無水加熱（乾熱）方式進行殺菌，但在消毒 3 至 5 次後仍要更換。
@@ -58,3 +58,17 @@
 - ℹ️ Untuk rice cooker tradisional, gunakan alas kukus di bawah panci agar masker tidak meleleh.
 - ℹ️ Anjuran dari BPOM Taiwan: Jika masker yang dipakai di luar ruangan/tempat dengan resiko rendah tak terkontaminasi dan hendak dipakai lagi, disarankan untuk dihangatkan tanpa air (dry heat) di rice cooker untuk membunuh kuman, bisa diulang 3-5x sebelum diganti.
 - ℹ️ Untuk rice cooker induksi, suhu di dalam panci harus mencapai 110℃ agar bisa menggunakan cara ini. 
+
+## 熁喙罨
+- 💁 台語發音指導、翻譯： Liz Lim 
+- 「電鍋」除了tiān-ko，也有很多人說tiān-ue。
+- 「內鍋」除了lāi-ko，也有很多人說lāi-ue。
+- 「乾蒸」如果直接翻譯成「焦炊(ta-tshue)」也可以，影片中使用的「熁(hannh)」是表示以陽光或火等熱氣短暫加熱的意思。
+
+## 熇嘴揞仔
+
+- 👩‍🏫 客語四縣腔發音指導、翻譯：徐汎平
+
+## 打燥炊嘴揞仔
+
+- 👩‍💼 客語海陸腔配音、翻譯：布藍達
